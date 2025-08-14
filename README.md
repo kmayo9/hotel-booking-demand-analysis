@@ -4,7 +4,13 @@ Predicting hotel reservation cancellations using booking behavior, feature engin
 
  Project Overview
 
-Hotel cancellations can lead to lost revenue and operational inefficiencies. This project explores booking data from a city hotel and a resort hotel to uncover patterns behind cancellations and build a predictive model to anticipate them.
+Hotel cancellations can lead to lost revenue and operational inefficiencies. 
+This project explores booking data from a city hotel and a resort hotel to 
+uncover patterns behind cancellations and build a predictive model to anticipate them.
+
+ My Role: 
+ I led all data engineering, exploratory analysis, and dashboard design, 
+from raw CSV to interactive Power BI visuals, using Python, VS Code, and Git for version control.
 
  Dataset
 
@@ -31,11 +37,16 @@ Source: [Hotel Booking Demand Datasets](https://www.sciencedirect.com/science/ar
 📁 Project Structure
 🚀 Next Steps
 
-- [x] Load and explore the dataset
-- [x] Engineer features (e.g., family size, stay length)
-- [x] Visualize cancellation trends
-- [ ] Build and evaluate predictive model
-- [ ] Summarize findings in a report
+- ✅ Load and explore dataset → Identified missing values and one-hot encoded categories
+- ✅ Engineer features → Created family size, stay length, and booking window variables
+- ⏳ Build and evaluate predictive model → Forecast cancellations with >80% accuracy
+- ⏳ Summarize findings → Highlight actionable recommendations for revenue teams
+
+The approach and visuals in this project can be adapted to any hospitality context where reducing cancellations drives measurable ROI.
+
+
+
+
 
 📌 Author
 
